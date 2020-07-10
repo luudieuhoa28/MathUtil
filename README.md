@@ -9,5 +9,6 @@ This respository contains a simple Java application used to demonstrate the CI -
 ## Connect me via:
 1. [GitHub](http:https://github.com/luudieuhoa28)
 2. [Facebook](https://www.facebook.com/luudieu.hoa)
+3. [Email](luudieuhoa28@gmail.com)
 
-#### © 2020 by DieuHoa
+#### © 2020 by DieuHoa | FPTU HCM
