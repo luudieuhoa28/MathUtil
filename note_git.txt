@@ -1,0 +1,21 @@
+1. Tạo kho trên verver, không tích vào README
+- Lưu ý user, pas, email, url đến kho
+2. Ở máy mình (local)
+3. Lệnh
+
+- git config --global ...
+- git config --global ...
+--> khi đổi máy mới
+- Chuyển đến thư mục code
+- Lênh git init (biến thư mục thành kho)
+- git add *
+- git commit -m "????"
+- git remote and origin https:...
+- git push -u origin master
+--> Khi tạo kho mới
+- git add *
+- git commit -m "????"
+- git push -u origin master
+
+Đọc thêm:
+rẽ nhánh, merge code, revert, conflic
